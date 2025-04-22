@@ -1,2 +1,0 @@
-# nyobaaja
-calculator
